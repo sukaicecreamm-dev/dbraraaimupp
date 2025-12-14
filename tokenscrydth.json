@@ -285,6 +285,25 @@
       "status": "running",
       "pid": 2140,
       "workDir": "/home/container/instances/8567519406AAEN"
+    },
+    {
+      "botToken": "8138354746:AAEiCs9LUpbwWhujgobAPojH178JFEvpnEs",
+      "config": {
+        "BOT_TOKEN": "8138354746:AAEiCs9LUpbwWhujgobAPojH178JFEvpnEs",
+        "OWNER_ID": "7961543946",
+        "NOTIF_ID": "",
+        "domain": "",
+        "plta": "",
+        "pltc": "",
+        "eggid": "",
+        "location": "",
+        "nestid": "",
+        "apiDigitalOcean": ""
+      },
+      "expiryDate": "2026-01-13T23:14:04.950Z",
+      "status": "running",
+      "pid": 2147,
+      "workDir": "/home/container/instances/8138354746AAEi"
     }
   ],
   "sellers": [
