@@ -1,1 +1,17 @@
-[]
+{
+  "servers": [
+    {
+      "botToken": "123456:ABCDEF",
+      "config": {
+        "BOT_TOKEN": "123456:ABCDEF",
+        "OWNER_ID": "1886007660"
+      },
+      "expiryDate": "2025-12-20T12:00:00.000Z",
+      "status": "running"
+    }
+  ],
+  "sellers": [
+    "1886007660",
+    "628123456789"
+  ]
+}
