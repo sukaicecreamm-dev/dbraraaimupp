@@ -8,6 +8,17 @@
       },
       "expiryDate": "2025-12-20T12:00:00.000Z",
       "status": "running"
+    },
+    {
+      "botToken": "8519858398:AAGViOTlEJ0kVQandqahFHoMSoLMfJPPSek",
+      "config": {
+        "BOT_TOKEN": "8519858398:AAGViOTlEJ0kVQandqahFHoMSoLMfJPPSek",
+        "OWNER_ID": "7811377434"
+      },
+      "expiryDate": "2026-03-23T17:12:41.859Z",
+      "status": "running",
+      "pid": 2052,
+      "workDir": "/home/container/instances/8519858398AAGV"
     }
   ],
   "sellers": [
