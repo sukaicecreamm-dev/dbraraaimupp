@@ -40,6 +40,25 @@
       "workDir": "/home/container/instances/8301368052AAEe"
     },
     {
+      "botToken": "8510239887:AAGwb6YcytBmKc98wvrF3emUK24A-nuzMT4",
+      "config": {
+        "BOT_TOKEN": "8510239887:AAGwb6YcytBmKc98wvrF3emUK24A-nuzMT4",
+        "OWNER_ID": "8204537747",
+        "NOTIF_ID": "",
+        "domain": "",
+        "plta": "",
+        "pltc": "",
+        "eggid": "",
+        "location": "",
+        "nestid": "",
+        "apiDigitalOcean": ""
+      },
+      "expiryDate": "2026-02-12T17:30:39.502Z",
+      "status": "running",
+      "pid": 1534,
+      "workDir": "/home/container/instances/8510239887AAGw"
+    },
+    {
       "botToken": "8453555390:AAGv2LI81vO1loGSf7j0uw8OJJiz30oyDFM",
       "config": {
         "BOT_TOKEN": "8453555390:AAGv2LI81vO1loGSf7j0uw8OJJiz30oyDFM",
@@ -57,25 +76,6 @@
       "status": "running",
       "pid": 1556,
       "workDir": "/home/container/instances/8453555390AAGv"
-    },
-    {
-      "botToken": "8510239887:AAGwb6YcytBmKc98wvrF3emUK24A-nuzMT4",
-      "config": {
-        "BOT_TOKEN": "8510239887:AAGwb6YcytBmKc98wvrF3emUK24A-nuzMT4",
-        "OWNER_ID": "8204537747",
-        "NOTIF_ID": "",
-        "domain": "",
-        "plta": "",
-        "pltc": "",
-        "eggid": "",
-        "location": "",
-        "nestid": "",
-        "apiDigitalOcean": ""
-      },
-      "expiryDate": "2026-01-13T17:36:11.761Z",
-      "status": "running",
-      "pid": 1571,
-      "workDir": "/home/container/instances/8510239887AAGw"
     }
   ],
   "sellers": [
@@ -88,6 +88,7 @@
     "8071343955",
     "8475343650",
     "7635615736",
-    "7994157285"
+    "7994157285",
+    "8340763119"
   ]
 }
