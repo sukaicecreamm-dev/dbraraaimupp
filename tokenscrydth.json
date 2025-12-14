@@ -57,6 +57,25 @@
       "status": "running",
       "pid": 1534,
       "workDir": "/home/container/instances/8510239887AAGw"
+    },
+    {
+      "botToken": "8453555390:AAGv2LI81vO1loGSf7j0uw8OJJiz30oyDFM",
+      "config": {
+        "BOT_TOKEN": "8453555390:AAGv2LI81vO1loGSf7j0uw8OJJiz30oyDFM",
+        "OWNER_ID": "7903351798",
+        "NOTIF_ID": "",
+        "domain": "",
+        "plta": "",
+        "pltc": "",
+        "eggid": "",
+        "location": "",
+        "nestid": "",
+        "apiDigitalOcean": ""
+      },
+      "expiryDate": "2026-01-13T17:31:06.898Z",
+      "status": "running",
+      "pid": 1556,
+      "workDir": "/home/container/instances/8453555390AAGv"
     }
   ],
   "sellers": [
