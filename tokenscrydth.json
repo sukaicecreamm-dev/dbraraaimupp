@@ -537,7 +537,7 @@
       "botToken": "8562585289:AAEbIINX_pxDIgdcI3nI1Dri8ZOECkf_wv4",
       "config": {
         "BOT_TOKEN": "8562585289:AAEbIINX_pxDIgdcI3nI1Dri8ZOECkf_wv4",
-        "OWNER_ID": "6326814288",
+        "OWNER_ID": "6532672277",
         "NOTIF_ID": "",
         "domain": "",
         "plta": "",
@@ -547,9 +547,9 @@
         "nestid": "",
         "apiDigitalOcean": ""
       },
-      "expiryDate": "2026-01-14T03:40:21.883Z",
+      "expiryDate": "2026-01-14T03:39:53.385Z",
       "status": "running",
-      "pid": 4561,
+      "pid": 4717,
       "workDir": "/home/container/instances/8562585289AAEb"
     }
   ],
