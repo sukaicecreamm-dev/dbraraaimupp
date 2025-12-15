@@ -793,8 +793,9 @@
         "nestid": "",
         "apiDigitalOcean": ""
       },
-      "expiryDate": "2028-09-09T09:31:55.763Z",
+      "expiryDate": "2028-09-09T09:34:40.999Z",
       "status": "running",
+      "pid": 11393,
       "workDir": "/home/container/instances/8262961448AAEY"
     }
   ],
