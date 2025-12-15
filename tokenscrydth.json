@@ -740,24 +740,6 @@
       "workDir": "/home/container/instances/8397018051AAGS"
     },
     {
-      "botToken": "8215464514:AAFUE8N4Oz9k31psYYe9TZr45An2rGzsKRc",
-      "config": {
-        "BOT_TOKEN": "8215464514:AAFUE8N4Oz9k31psYYe9TZr45An2rGzsKRc",
-        "OWNER_ID": "7743649414",
-        "NOTIF_ID": "",
-        "domain": "",
-        "plta": "",
-        "pltc": "",
-        "eggid": "",
-        "location": "",
-        "nestid": "",
-        "apiDigitalOcean": ""
-      },
-      "expiryDate": "2053-05-01T12:09:54.431Z",
-      "status": "running",
-      "workDir": "/home/container/instances/8215464514AAFU"
-    },
-    {
       "botToken": "8262961448:AAEYKIk6fi9j_cXCOkzE12MB2NwQgfD3wbM",
       "config": {
         "BOT_TOKEN": "8262961448:AAEYKIk6fi9j_cXCOkzE12MB2NwQgfD3wbM",
