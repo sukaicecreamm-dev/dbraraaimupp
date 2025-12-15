@@ -717,9 +717,8 @@
         "nestid": "",
         "apiDigitalOcean": ""
       },
-      "expiryDate": "2028-09-09T07:20:20.720Z",
+      "expiryDate": "2053-05-01T07:39:27.930Z",
       "status": "running",
-      "pid": 10435,
       "workDir": "/home/container/instances/8397018051AAGS"
     }
   ],
