@@ -215,6 +215,18 @@
       "status": "running",
       "pid": 6181,
       "workDir": "/home/container/instances/8333228942AAEO"
+    },
+    {
+      "botToken": "8519125899:AAHOKKzS2xO6tg0P8dlGmQSGCM0ccsEyk4o",
+      "ownerId": 8494672829,
+      "config": {
+        "BOT_TOKEN": "8519125899:AAHOKKzS2xO6tg0P8dlGmQSGCM0ccsEyk4o",
+        "OWNER_ID": 8494672829
+      },
+      "expiryDate": "2026-01-15T15:06:15.740Z",
+      "status": "running",
+      "pid": 6681,
+      "workDir": "/home/container/instances/8519125899AAHO"
     }
   ],
   "sellers": []
