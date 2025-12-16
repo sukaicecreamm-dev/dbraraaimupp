@@ -1026,25 +1026,6 @@
       "workDir": "/home/container/instances/8334274332AAEK"
     },
     {
-      "botToken": "8262961448:AAEYKIk6fi9j_cXCOkzE12MB2NwQgfD3wbM",
-      "config": {
-        "BOT_TOKEN": "8262961448:AAEYKIk6fi9j_cXCOkzE12MB2NwQgfD3wbM",
-        "OWNER_ID": "7763046740",
-        "NOTIF_ID": "",
-        "domain": "",
-        "plta": "",
-        "pltc": "",
-        "eggid": "",
-        "location": "",
-        "nestid": "",
-        "apiDigitalOcean": ""
-      },
-      "expiryDate": "2028-09-10T02:29:04.632Z",
-      "status": "running",
-      "pid": 6362,
-      "workDir": "/home/container/instances/8262961448AAEY"
-    },
-    {
       "botToken": "8576234084:AAE02PjU5Z44kN2eV9gjCEciI08h4BcclNI",
       "config": {
         "BOT_TOKEN": "8576234084:AAE02PjU5Z44kN2eV9gjCEciI08h4BcclNI",
@@ -1083,10 +1064,10 @@
       "workDir": "/home/container/instances/8319832733AAEV"
     },
     {
-      "botToken": "8590993270:AAG8ybp4-KO5xH0pHa-lU0craeIFLPCYHYk",
+      "botToken": "8262961448:AAEYKIk6fi9j_cXCOkzE12MB2NwQgfD3wbM",
       "config": {
-        "BOT_TOKEN": "8590993270:AAG8ybp4-KO5xH0pHa-lU0craeIFLPCYHYk",
-        "OWNER_ID": "6571102192",
+        "BOT_TOKEN": "8262961448:AAEYKIk6fi9j_cXCOkzE12MB2NwQgfD3wbM",
+        "OWNER_ID": "7763046740",
         "NOTIF_ID": "",
         "domain": "",
         "plta": "",
@@ -1096,10 +1077,10 @@
         "nestid": "",
         "apiDigitalOcean": ""
       },
-      "expiryDate": "2026-01-15T02:55:17.858Z",
+      "expiryDate": "2053-05-02T02:55:19.499Z",
       "status": "running",
-      "pid": 6411,
-      "workDir": "/home/container/instances/8590993270AAG8"
+      "pid": 6427,
+      "workDir": "/home/container/instances/8262961448AAEY"
     }
   ],
   "sellers": [
