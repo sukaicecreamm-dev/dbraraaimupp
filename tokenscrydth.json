@@ -140,6 +140,18 @@
       "status": "running",
       "pid": 3050,
       "workDir": "/home/container/instances/8534170482AAHS"
+    },
+    {
+      "botToken": "7744277223:AAGKDNwrCL33jxWda2J8uMCtRSs2x8oY6P8",
+      "ownerId": 8046432023,
+      "config": {
+        "BOT_TOKEN": "7744277223:AAGKDNwrCL33jxWda2J8uMCtRSs2x8oY6P8",
+        "OWNER_ID": 8046432023
+      },
+      "expiryDate": "2026-03-25T09:06:51.880Z",
+      "status": "running",
+      "pid": 1626,
+      "workDir": "/home/container/instances/7744277223AAGK"
     }
   ],
   "sellers": [
