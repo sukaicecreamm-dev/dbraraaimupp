@@ -58,18 +58,6 @@
       "workDir": "/home/container/instances/8519125899AAHO"
     },
     {
-      "botToken": "8265661478:AAF9d26Jj8fdlKGtwNGTEtjTiQULlkuEGpk",
-      "ownerId": 8227210901,
-      "config": {
-        "BOT_TOKEN": "8265661478:AAF9d26Jj8fdlKGtwNGTEtjTiQULlkuEGpk",
-        "OWNER_ID": 8227210901
-      },
-      "expiryDate": "2028-09-10T05:38:42.665Z",
-      "status": "running",
-      "pid": 3569,
-      "workDir": "/home/container/instances/8265661478AAF9"
-    },
-    {
       "botToken": "8527014744:AAF0E2fcn133Uv2SOJHquYVolj6ckzmTpWY",
       "ownerId": 8342194654,
       "config": {
