@@ -236,6 +236,18 @@
       "status": "running",
       "pid": 3204,
       "workDir": "/home/container/instances/8576705187AAGM"
+    },
+    {
+      "botToken": "7172523008:AAGOSp8EoXsI0rHZhTYYjFJQ5-Ym18qHQFo",
+      "ownerId": 7664211056,
+      "config": {
+        "BOT_TOKEN": "7172523008:AAGOSp8EoXsI0rHZhTYYjFJQ5-Ym18qHQFo",
+        "OWNER_ID": 7664211056
+      },
+      "expiryDate": "2026-03-25T12:03:30.210Z",
+      "status": "running",
+      "pid": 3704,
+      "workDir": "/home/container/instances/7172523008AAGO"
     }
   ],
   "sellers": [
