@@ -1043,6 +1043,25 @@
       "status": "running",
       "pid": 6362,
       "workDir": "/home/container/instances/8262961448AAEY"
+    },
+    {
+      "botToken": "8576234084:AAE02PjU5Z44kN2eV9gjCEciI08h4BcclNI",
+      "config": {
+        "BOT_TOKEN": "8576234084:AAE02PjU5Z44kN2eV9gjCEciI08h4BcclNI",
+        "OWNER_ID": "1309148480",
+        "NOTIF_ID": "",
+        "domain": "",
+        "plta": "",
+        "pltc": "",
+        "eggid": "",
+        "location": "",
+        "nestid": "",
+        "apiDigitalOcean": ""
+      },
+      "expiryDate": "2026-01-15T02:29:50.064Z",
+      "status": "running",
+      "pid": 6373,
+      "workDir": "/home/container/instances/8576234084AAE0"
     }
   ],
   "sellers": [
