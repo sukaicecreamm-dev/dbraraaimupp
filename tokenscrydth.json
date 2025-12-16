@@ -16,9 +16,9 @@
         "BOT_TOKEN": "8335464812:AAGDiKnmAGHQpfgHvqgQX5ppnf3v-FxsMf0",
         "OWNER_ID": 8047141555
       },
-      "expiryDate": "2026-01-15T05:36:42.590Z",
+      "expiryDate": "2026-01-15T05:36:20.091Z",
       "status": "running",
-      "pid": 1209,
+      "pid": 1297,
       "workDir": "/home/container/instances/8335464812AAGD"
     }
   ],
