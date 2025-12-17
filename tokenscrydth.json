@@ -83,6 +83,18 @@
       "status": "running",
       "pid": 5568,
       "workDir": "/home/container/instances/8453555390AAGv"
+    },
+    {
+      "botToken": "8423082429:AAGvRoFuEC-LS7MnQ10-pqnINRmdSY32nik",
+      "ownerId": 7922162183,
+      "config": {
+        "BOT_TOKEN": "8423082429:AAGvRoFuEC-LS7MnQ10-pqnINRmdSY32nik",
+        "OWNER_ID": 7922162183
+      },
+      "expiryDate": "2026-01-16T06:54:53.969Z",
+      "status": "running",
+      "pid": 6068,
+      "workDir": "/home/container/instances/8423082429AAGv"
     }
   ],
   "sellers": []
