@@ -119,18 +119,6 @@
       "status": "running",
       "pid": 6578,
       "workDir": "/home/container/instances/8567519406AAEN"
-    },
-    {
-      "botToken": "8003228714:AAFvzUooLEiQ_ih6wKFqhpp8L3o5WKJwrMw",
-      "ownerId": 7208536743,
-      "config": {
-        "BOT_TOKEN": "8003228714:AAFvzUooLEiQ_ih6wKFqhpp8L3o5WKJwrMw",
-        "OWNER_ID": 7208536743
-      },
-      "expiryDate": "2026-10-13T10:03:19.468Z",
-      "status": "running",
-      "pid": 6585,
-      "workDir": "/home/container/instances/8003228714AAFv"
     }
   ],
   "sellers": []
