@@ -1,29 +1,4 @@
 {
-  "servers": [
-    {
-      "botToken": "8210798906:AAG1tftUnRtISn7NqqBG5UyxLIC4F6j7zdk",
-      "ownerId": 7072390886,
-      "config": {
-        "BOT_TOKEN": "8210798906:AAG1tftUnRtISn7NqqBG5UyxLIC4F6j7zdk",
-        "OWNER_ID": 7072390886
-      },
-      "expiryDate": "2026-01-16T01:23:21.286Z",
-      "status": "running",
-      "pid": 538,
-      "workDir": "/home/container/instances/8210798906AAG1"
-    },
-    {
-      "botToken": "8135852301:AAEAFrnIF4fRqcS9-wzP1Q_KI6qE6oLfFoY",
-      "ownerId": 8278839088,
-      "config": {
-        "BOT_TOKEN": "8135852301:AAEAFrnIF4fRqcS9-wzP1Q_KI6qE6oLfFoY",
-        "OWNER_ID": 8278839088
-      },
-      "expiryDate": "2026-01-16T01:26:04.083Z",
-      "status": "running",
-      "pid": 1038,
-      "workDir": "/home/container/instances/8135852301AAEA"
-    }
-  ],
+  "servers": [],
   "sellers": []
 }
