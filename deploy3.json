@@ -95,6 +95,18 @@
       "status": "running",
       "pid": 5574,
       "workDir": "/home/container/instances/8551162639AAFv"
+    },
+    {
+      "botToken": "8395870073:AAFZB0LG6InFJ7PJJ2ouChjMSfpcM2zs7z8",
+      "ownerId": 6880145960,
+      "config": {
+        "BOT_TOKEN": "8395870073:AAFZB0LG6InFJ7PJJ2ouChjMSfpcM2zs7z8",
+        "OWNER_ID": 6880145960
+      },
+      "expiryDate": "2028-09-11T08:32:15.411Z",
+      "status": "running",
+      "pid": 6078,
+      "workDir": "/home/container/instances/8395870073AAFZ"
     }
   ],
   "sellers": []
