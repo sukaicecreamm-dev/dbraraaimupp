@@ -61,18 +61,6 @@
       "workDir": "/home/container/instances/8534170482AAHS"
     },
     {
-      "botToken": "7172523008:AAGOSp8EoXsI0rHZhTYYjFJQ5-Ym18qHQFo",
-      "ownerId": 7664211056,
-      "config": {
-        "BOT_TOKEN": "7172523008:AAGOSp8EoXsI0rHZhTYYjFJQ5-Ym18qHQFo",
-        "OWNER_ID": 7664211056
-      },
-      "expiryDate": "2026-03-26T05:20:19.309Z",
-      "status": "running",
-      "pid": 4049,
-      "workDir": "/home/container/instances/7172523008AAGO"
-    },
-    {
       "botToken": "8503415518:AAEcS_Sp_zKN6tE6qzZxT7cP47cYtS0YFDU",
       "ownerId": 1352093421,
       "config": {
@@ -83,18 +71,6 @@
       "status": "running",
       "pid": 5598,
       "workDir": "/home/container/instances/8503415518AAEc"
-    },
-    {
-      "botToken": "8290144897:AAHVVB8adNwjuUDffjMJC3obi46p7fJVsHk",
-      "ownerId": 8566257847,
-      "config": {
-        "BOT_TOKEN": "8290144897:AAHVVB8adNwjuUDffjMJC3obi46p7fJVsHk",
-        "OWNER_ID": 8566257847
-      },
-      "expiryDate": "2028-09-11T09:39:52.075Z",
-      "status": "running",
-      "pid": 6598,
-      "workDir": "/home/container/instances/8290144897AAHV"
     },
     {
       "botToken": "8562411706:AAFy6f1PVD_LGuNcj9yFYF5fMAt2j5p6lHQ",
