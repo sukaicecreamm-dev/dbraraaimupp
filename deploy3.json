@@ -191,6 +191,18 @@
       "status": "running",
       "pid": 11206,
       "workDir": "/home/container/instances/8302565742AAHg"
+    },
+    {
+      "botToken": "8187118634:AAGICE1OEtFUVHe45WvYno-4pBASsuzkFRs",
+      "ownerId": 1950977437,
+      "config": {
+        "BOT_TOKEN": "8187118634:AAGICE1OEtFUVHe45WvYno-4pBASsuzkFRs",
+        "OWNER_ID": 1950977437
+      },
+      "expiryDate": "2026-01-17T02:05:51.001Z",
+      "status": "running",
+      "pid": 11740,
+      "workDir": "/home/container/instances/8187118634AAGI"
     }
   ],
   "sellers": []
