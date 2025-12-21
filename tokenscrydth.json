@@ -229,18 +229,6 @@
       "workDir": "/home/container/instances/8562585289AAEb"
     },
     {
-      "botToken": "8410019599:AAE_e2NrlKmBnsedXxJ8SeXZlnxB5b6zObo",
-      "ownerId": 7757585412,
-      "config": {
-        "BOT_TOKEN": "8410019599:AAE_e2NrlKmBnsedXxJ8SeXZlnxB5b6zObo",
-        "OWNER_ID": 7757585412
-      },
-      "expiryDate": "2025-12-26T17:04:10.912Z",
-      "status": "running",
-      "pid": 21798,
-      "workDir": "/home/container/instances/8410019599AAE"
-    },
-    {
       "botToken": "7744277223:AAGKDNwrCL33jxWda2J8uMCtRSs2x8oY6P8",
       "ownerId": 8046432023,
       "config": {
@@ -265,30 +253,6 @@
       "workDir": "/home/container/instances/8255204839AAHR"
     },
     {
-      "botToken": "8272129847:AAHlf38RjgWxYXm8wgTlrkXkB-jvHp33xI0",
-      "ownerId": 7172119247,
-      "config": {
-        "BOT_TOKEN": "8272129847:AAHlf38RjgWxYXm8wgTlrkXkB-jvHp33xI0",
-        "OWNER_ID": 7172119247
-      },
-      "expiryDate": "2026-01-19T07:08:49.918Z",
-      "status": "running",
-      "pid": 23435,
-      "workDir": "/home/container/instances/8272129847AAHl"
-    },
-    {
-      "botToken": "7135562440:AAHyAWuK3WaMU-SYukReOUu5VGeSXlvoD_I",
-      "ownerId": 8422780130,
-      "config": {
-        "BOT_TOKEN": "7135562440:AAHyAWuK3WaMU-SYukReOUu5VGeSXlvoD_I",
-        "OWNER_ID": 8422780130
-      },
-      "expiryDate": "2026-03-29T11:58:58.717Z",
-      "status": "running",
-      "pid": 24446,
-      "workDir": "/home/container/instances/7135562440AAHy"
-    },
-    {
       "botToken": "8549854303:AAEXJQFKlv5E3ndTscJurJyGJGSrelu76eM",
       "ownerId": 7796137462,
       "config": {
@@ -299,18 +263,6 @@
       "status": "running",
       "pid": 24946,
       "workDir": "/home/container/instances/8549854303AAEX"
-    },
-    {
-      "botToken": "8578971110:AAFDAgEweGZCNcqfOlOLskYydvFC6k1ihog",
-      "ownerId": 8189897267,
-      "config": {
-        "BOT_TOKEN": "8578971110:AAFDAgEweGZCNcqfOlOLskYydvFC6k1ihog",
-        "OWNER_ID": 8189897267
-      },
-      "expiryDate": "2028-09-15T18:08:22.410Z",
-      "status": "running",
-      "pid": 25446,
-      "workDir": "/home/container/instances/8578971110AAFD"
     },
     {
       "botToken": "8225860132:AAFYLwc6ACD0faZtRy23TPNoJCLsomOXIcA",
