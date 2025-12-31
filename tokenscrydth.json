@@ -1,4 +1,17 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botToken": "8413104846:AAFFNm2r9eIftRydH3LKiFQxcQU2623k9Nk",
+      "ownerId": 1886007660,
+      "config": {
+        "BOT_TOKEN": "8413104846:AAFFNm2r9eIftRydH3LKiFQxcQU2623k9Nk",
+        "OWNER_ID": 1886007660
+      },
+      "expiryDate": "2026-01-01T04:22:45.271Z",
+      "status": "running",
+      "pid": 538,
+      "workDir": "/home/container/instances/8413104846AAFF"
+    }
+  ],
   "sellers": []
 }
