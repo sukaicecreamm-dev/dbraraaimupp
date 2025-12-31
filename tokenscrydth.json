@@ -143,6 +143,18 @@
       "status": "running",
       "pid": 1672,
       "workDir": "/home/container/instances/8210798906AAG1"
+    },
+    {
+      "botToken": "7772910566:AAFU_KKEC6O6MA32PTscJ4A565_HD-z3ZVs",
+      "ownerId": 6527610418,
+      "config": {
+        "BOT_TOKEN": "7772910566:AAFU_KKEC6O6MA32PTscJ4A565_HD-z3ZVs",
+        "OWNER_ID": 6527610418
+      },
+      "expiryDate": "2026-04-09T04:56:23.376Z",
+      "status": "running",
+      "pid": 2185,
+      "workDir": "/home/container/instances/7772910566AAFU"
     }
   ],
   "sellers": []
