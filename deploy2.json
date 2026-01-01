@@ -71,6 +71,18 @@
       "status": "running",
       "pid": 3092,
       "workDir": "/home/container/instances/8505902163AAHM"
+    },
+    {
+      "botToken": "8325783344:AAH-wccHmNQgnoPiQXJFkVLHi4OHoASqssw",
+      "ownerId": 8313801464,
+      "config": {
+        "BOT_TOKEN": "8325783344:AAH-wccHmNQgnoPiQXJFkVLHi4OHoASqssw",
+        "OWNER_ID": 8313801464
+      },
+      "expiryDate": "2026-10-28T08:36:32.164Z",
+      "status": "running",
+      "pid": 3592,
+      "workDir": "/home/container/instances/8325783344AAH"
     }
   ],
   "sellers": []
