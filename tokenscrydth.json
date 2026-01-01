@@ -109,18 +109,6 @@
       "workDir": "/home/container/instances/8554994130AAFO"
     },
     {
-      "botToken": "8514941224:AAH5w_jsFPd8UBd3KZuzKDKnfZ7cLV29dmE",
-      "ownerId": 8478733980,
-      "config": {
-        "BOT_TOKEN": "8514941224:AAH5w_jsFPd8UBd3KZuzKDKnfZ7cLV29dmE",
-        "OWNER_ID": 8478733980
-      },
-      "expiryDate": "2026-01-01T04:52:02.675Z",
-      "status": "running",
-      "pid": 1142,
-      "workDir": "/home/container/instances/8514941224AAH5"
-    },
-    {
       "botToken": "7772910566:AAFU_KKEC6O6MA32PTscJ4A565_HD-z3ZVs",
       "ownerId": 6527610418,
       "config": {
