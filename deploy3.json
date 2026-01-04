@@ -175,9 +175,9 @@
         "BOT_TOKEN": "8457667646:AAFOYS92iO_2-ZryolrrLHsFO_UnceWmsTk",
         "OWNER_ID": 8320578224
       },
-      "expiryDate": "2026-02-03T05:08:24.904Z",
+      "expiryDate": "2026-02-03T05:18:03.763Z",
       "status": "running",
-      "pid": 7883,
+      "pid": 7906,
       "workDir": "/home/container/instances/8457667646AAFO"
     }
   ],
