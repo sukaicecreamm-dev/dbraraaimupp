@@ -25,6 +25,19 @@
       "status": "running",
       "pid": 1039,
       "workDir": "/home/container/instances/8595340845AAEN"
+    },
+    {
+      "botName": "R2SRIMAKE_BOT",
+      "botToken": "8456141781:AAETgaT_SNEd08oIOsprmtEFEsTSKyt7u4Q",
+      "ownerId": 8147535653,
+      "config": {
+        "BOT_TOKEN": "8456141781:AAETgaT_SNEd08oIOsprmtEFEsTSKyt7u4Q",
+        "OWNER_ID": 8147535653
+      },
+      "expiryDate": "2026-04-18T13:54:19.934Z",
+      "status": "running",
+      "pid": 1539,
+      "workDir": "/home/container/instances/8456141781AAET"
     }
   ],
   "sellers": []
