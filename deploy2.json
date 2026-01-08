@@ -103,6 +103,19 @@
       "status": "running",
       "pid": 8192,
       "workDir": "/home/container/instances/8599401190AAEl"
+    },
+    {
+      "botName": "@Hartizzzxbot",
+      "botToken": "7999115528:AAErIIT_SOwAE97r-1KvjytLKeSq8pQ7H5o",
+      "ownerId": 8498812864,
+      "config": {
+        "BOT_TOKEN": "7999115528:AAErIIT_SOwAE97r-1KvjytLKeSq8pQ7H5o",
+        "OWNER_ID": 8498812864
+      },
+      "expiryDate": "2026-04-18T15:16:46.592Z",
+      "status": "running",
+      "pid": 9518,
+      "workDir": "/home/container/instances/7999115528AAEr"
     }
   ],
   "sellers": []
