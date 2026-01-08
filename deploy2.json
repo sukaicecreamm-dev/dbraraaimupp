@@ -129,6 +129,19 @@
       "status": "running",
       "pid": 11038,
       "workDir": "/home/container/instances/8572495435AAHf"
+    },
+    {
+      "botName": "raraa",
+      "botToken": "8270242340:AAH7XE0M52NGqVKfiWJJVnmXdJI3gsA3208",
+      "ownerId": 1886007660,
+      "config": {
+        "BOT_TOKEN": "8270242340:AAH7XE0M52NGqVKfiWJJVnmXdJI3gsA3208",
+        "OWNER_ID": 1886007660
+      },
+      "expiryDate": "2026-04-18T16:01:57.809Z",
+      "status": "running",
+      "pid": 13437,
+      "workDir": "/home/container/instances/8270242340AAH7"
     }
   ],
   "sellers": []
