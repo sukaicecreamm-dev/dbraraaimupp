@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botName": "scarry",
+      "botToken": "8265317634:AAEF6BEYEJ0E_Aca7df3JPYaCs4xVYfHtpU",
+      "ownerId": 8435235170,
+      "config": {
+        "BOT_TOKEN": "8265317634:AAEF6BEYEJ0E_Aca7df3JPYaCs4xVYfHtpU",
+        "OWNER_ID": 8435235170
+      },
+      "expiryDate": "2026-04-18T13:51:36.422Z",
+      "status": "running",
+      "pid": 539,
+      "workDir": "/home/container/instances/8265317634AAEF"
+    }
+  ],
   "sellers": []
 }
