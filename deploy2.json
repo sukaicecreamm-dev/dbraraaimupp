@@ -142,6 +142,19 @@
       "status": "stopped",
       "pid": 13437,
       "workDir": "/home/container/instances/8270242340AAH7"
+    },
+    {
+      "botName": "Kelvinzbabu_bot",
+      "botToken": "7270015098:AAGgJTnyvlf5V7T0W7PUCzXZooHJ6xgg_2M",
+      "ownerId": 8147535653,
+      "config": {
+        "BOT_TOKEN": "7270015098:AAGgJTnyvlf5V7T0W7PUCzXZooHJ6xgg_2M",
+        "OWNER_ID": 8147535653
+      },
+      "expiryDate": "2026-04-18T16:15:25.365Z",
+      "status": "running",
+      "pid": 14753,
+      "workDir": "/home/container/instances/7270015098AAGg"
     }
   ],
   "sellers": []
