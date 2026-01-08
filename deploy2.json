@@ -155,6 +155,19 @@
       "status": "stopped",
       "pid": 14753,
       "workDir": "/home/container/instances/7270015098AAGg"
+    },
+    {
+      "botName": "sbusjbot",
+      "botToken": "8503708464:AAEfyHrhLk8qzYQhDTGKpV9cg4h8YGLi0j0",
+      "ownerId": 8147535653,
+      "config": {
+        "BOT_TOKEN": "8503708464:AAEfyHrhLk8qzYQhDTGKpV9cg4h8YGLi0j0",
+        "OWNER_ID": 8147535653
+      },
+      "expiryDate": "2026-04-18T16:32:25.001Z",
+      "status": "running",
+      "pid": 16221,
+      "workDir": "/home/container/instances/8503708464AAEf"
     }
   ],
   "sellers": []
