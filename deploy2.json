@@ -12,6 +12,19 @@
       "status": "running",
       "pid": 539,
       "workDir": "/home/container/instances/8265317634AAEF"
+    },
+    {
+      "botName": "plenger",
+      "botToken": "8595340845:AAENDgI_f09jCf2xIMGfwdhdL67cRYScuBk",
+      "ownerId": 8122469720,
+      "config": {
+        "BOT_TOKEN": "8595340845:AAENDgI_f09jCf2xIMGfwdhdL67cRYScuBk",
+        "OWNER_ID": 8122469720
+      },
+      "expiryDate": "2026-04-18T13:53:19.882Z",
+      "status": "running",
+      "pid": 1039,
+      "workDir": "/home/container/instances/8595340845AAEN"
     }
   ],
   "sellers": []
