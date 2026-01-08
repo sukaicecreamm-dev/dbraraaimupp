@@ -168,6 +168,19 @@
       "status": "running",
       "pid": 16623,
       "workDir": "/home/container/instances/7270015098AAGg"
+    },
+    {
+      "botName": "yanz",
+      "botToken": "8393739674:AAHSMQcezFyp5_QsEUixdpV7LL82_LNMh7w",
+      "ownerId": 8167548128,
+      "config": {
+        "BOT_TOKEN": "8393739674:AAHSMQcezFyp5_QsEUixdpV7LL82_LNMh7w",
+        "OWNER_ID": 8167548128
+      },
+      "expiryDate": "2026-04-18T20:34:30.447Z",
+      "status": "running",
+      "pid": 25188,
+      "workDir": "/home/container/instances/8393739674AAHS"
     }
   ],
   "sellers": []
