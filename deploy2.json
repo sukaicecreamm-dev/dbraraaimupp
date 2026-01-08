@@ -64,6 +64,19 @@
       "status": "running",
       "pid": 2575,
       "workDir": "/home/container/instances/8548095836AAGn"
+    },
+    {
+      "botName": "Fikzz",
+      "botToken": "8322910580:AAHvrnDnx6J1af7EaZGCv7bAjJ5JrLlTjdQ",
+      "ownerId": 7643222491,
+      "config": {
+        "BOT_TOKEN": "8322910580:AAHvrnDnx6J1af7EaZGCv7bAjJ5JrLlTjdQ",
+        "OWNER_ID": 7643222491
+      },
+      "expiryDate": "2026-04-18T14:07:46.373Z",
+      "status": "running",
+      "pid": 3109,
+      "workDir": "/home/container/instances/8322910580AAHv"
     }
   ],
   "sellers": []
