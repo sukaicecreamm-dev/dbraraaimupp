@@ -139,7 +139,7 @@
         "OWNER_ID": 1886007660
       },
       "expiryDate": "2026-04-18T16:01:57.809Z",
-      "status": "running",
+      "status": "stopped",
       "pid": 13437,
       "workDir": "/home/container/instances/8270242340AAH7"
     }
