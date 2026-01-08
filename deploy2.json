@@ -77,6 +77,19 @@
       "status": "running",
       "pid": 3109,
       "workDir": "/home/container/instances/8322910580AAHv"
+    },
+    {
+      "botName": "@JELOOLREPORT_BOT",
+      "botToken": "8288388397:AAGbnUmK9OAeYi-exjdIZNYxbqWnwF4Eku4",
+      "ownerId": 7994157285,
+      "config": {
+        "BOT_TOKEN": "8288388397:AAGbnUmK9OAeYi-exjdIZNYxbqWnwF4Eku4",
+        "OWNER_ID": 7994157285
+      },
+      "expiryDate": "2026-04-18T15:00:16.765Z",
+      "status": "running",
+      "pid": 7163,
+      "workDir": "/home/container/instances/8288388397AAGb"
     }
   ],
   "sellers": []
