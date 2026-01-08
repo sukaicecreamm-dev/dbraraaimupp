@@ -90,6 +90,19 @@
       "status": "running",
       "pid": 7163,
       "workDir": "/home/container/instances/8288388397AAGb"
+    },
+    {
+      "botName": "http://t.me/arulofficialbot",
+      "botToken": "8599401190:AAEl5pF8bEb5Zl-d9_STPT08CJv7svQiK7Q",
+      "ownerId": 8148406891,
+      "config": {
+        "BOT_TOKEN": "8599401190:AAEl5pF8bEb5Zl-d9_STPT08CJv7svQiK7Q",
+        "OWNER_ID": 8148406891
+      },
+      "expiryDate": "2026-04-18T15:06:25.123Z",
+      "status": "running",
+      "pid": 8192,
+      "workDir": "/home/container/instances/8599401190AAEl"
     }
   ],
   "sellers": []
