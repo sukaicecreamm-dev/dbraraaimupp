@@ -51,6 +51,19 @@
       "status": "running",
       "pid": 2050,
       "workDir": "/home/container/instances/8221893208AAHA"
+    },
+    {
+      "botName": "@Butjambot",
+      "botToken": "8548095836:AAGnXeegDkp5U2_zMcifckhUYHabCH0dAiY",
+      "ownerId": 5488617960,
+      "config": {
+        "BOT_TOKEN": "8548095836:AAGnXeegDkp5U2_zMcifckhUYHabCH0dAiY",
+        "OWNER_ID": 5488617960
+      },
+      "expiryDate": "2026-04-18T13:58:37.239Z",
+      "status": "running",
+      "pid": 2575,
+      "workDir": "/home/container/instances/8548095836AAGn"
     }
   ],
   "sellers": []
