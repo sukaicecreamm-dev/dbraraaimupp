@@ -194,6 +194,19 @@
       "status": "running",
       "pid": 28795,
       "workDir": "/home/container/instances/8103974879AAFo"
+    },
+    {
+      "botName": "stelyoung",
+      "botToken": "8570284506:AAGN7sySrRYq2sYjBnb709IjHWG-uKRLgeo",
+      "ownerId": 7639481425,
+      "config": {
+        "BOT_TOKEN": "8570284506:AAGN7sySrRYq2sYjBnb709IjHWG-uKRLgeo",
+        "OWNER_ID": 7639481425
+      },
+      "expiryDate": "2026-04-19T01:47:56.327Z",
+      "status": "running",
+      "pid": 32512,
+      "workDir": "/home/container/instances/8570284506AAGN"
     }
   ],
   "sellers": []
