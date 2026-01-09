@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botName": "SCRAYYBOT",
+      "botToken": "8256896975:AAG9ULF7C07HEywe_4x0MVR51Zb7JfGCHbM",
+      "ownerId": 7572384302,
+      "config": {
+        "BOT_TOKEN": "8256896975:AAG9ULF7C07HEywe_4x0MVR51Zb7JfGCHbM",
+        "OWNER_ID": 7572384302
+      },
+      "expiryDate": "2026-04-19T13:13:18.855Z",
+      "status": "running",
+      "pid": 538,
+      "workDir": "/home/container/instances/8256896975AAG9"
+    }
+  ],
   "sellers": []
 }
