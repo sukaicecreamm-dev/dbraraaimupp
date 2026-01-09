@@ -25,6 +25,19 @@
       "status": "running",
       "pid": 1039,
       "workDir": "/home/container/instances/7990755818AAGS"
+    },
+    {
+      "botName": "@hartizzxbot",
+      "botToken": "8498260898:AAGAmg4p62ZpzViSHhfap1IzTI7iww9OVDM",
+      "ownerId": 8568378644,
+      "config": {
+        "BOT_TOKEN": "8498260898:AAGAmg4p62ZpzViSHhfap1IzTI7iww9OVDM",
+        "OWNER_ID": 8568378644
+      },
+      "expiryDate": "2026-04-19T13:30:20.260Z",
+      "status": "running",
+      "pid": 1540,
+      "workDir": "/home/container/instances/8498260898AAGA"
     }
   ],
   "sellers": []
