@@ -38,6 +38,14 @@
       "status": "running",
       "pid": 1540,
       "workDir": "/home/container/instances/8498260898AAGA"
+    },
+    {
+      "botName": "alxzyyyy",
+      "botToken": "8541226644:AAGMMCKqyGnnQGwlAzSGDHGtIVqgRySvXhA",
+      "serverId": "1a145426",
+      "internalId": 16,
+      "ownerId": 1950977902,
+      "expiryDate": "2026-02-08T15:10:26.431Z"
     }
   ],
   "sellers": []
