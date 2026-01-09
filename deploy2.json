@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 32512,
       "workDir": "/home/container/instances/8570284506AAGN"
+    },
+    {
+      "botName": "NyxBot",
+      "botToken": "8528464243:AAGuzFsFkD4u9fgTI-cE_4pV--seZny1AOw",
+      "ownerId": 8458287487,
+      "config": {
+        "BOT_TOKEN": "8528464243:AAGuzFsFkD4u9fgTI-cE_4pV--seZny1AOw",
+        "OWNER_ID": 8458287487
+      },
+      "expiryDate": "2026-04-19T03:40:08.113Z",
+      "status": "running",
+      "pid": 706,
+      "workDir": "/home/container/instances/8528464243AAGu"
     }
   ],
   "sellers": []
