@@ -12,6 +12,19 @@
       "status": "running",
       "pid": 538,
       "workDir": "/home/container/instances/8256896975AAG9"
+    },
+    {
+      "botName": "BotAhmadBugBot",
+      "botToken": "7990755818:AAGSE3I5u_MCqe6SKJY03qGIpvkT0L6t0Js",
+      "ownerId": 8422780130,
+      "config": {
+        "BOT_TOKEN": "7990755818:AAGSE3I5u_MCqe6SKJY03qGIpvkT0L6t0Js",
+        "OWNER_ID": 8422780130
+      },
+      "expiryDate": "2026-04-19T13:15:49.110Z",
+      "status": "running",
+      "pid": 1039,
+      "workDir": "/home/container/instances/7990755818AAGS"
     }
   ],
   "sellers": []
