@@ -152,7 +152,7 @@
         "OWNER_ID": 7732446013
       },
       "expiryDate": "2026-04-20T12:40:33.438Z",
-      "status": "running",
+      "status": "stopped",
       "pid": 1393,
       "workDir": "/home/container/instances/8451721772AAHi"
     }
