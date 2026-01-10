@@ -246,6 +246,19 @@
       "status": "running",
       "pid": 455,
       "workDir": "/home/container/instances/8410019599AAE"
+    },
+    {
+      "botName": "zanzepek",
+      "botToken": "8585417813:AAHlHWn1ZX7lnfUrf_ESrVvv8q8Eo4XpT-4",
+      "ownerId": 7151695711,
+      "config": {
+        "BOT_TOKEN": "8585417813:AAHlHWn1ZX7lnfUrf_ESrVvv8q8Eo4XpT-4",
+        "OWNER_ID": 7151695711
+      },
+      "expiryDate": "2026-04-20T13:57:04.788Z",
+      "status": "running",
+      "pid": 587,
+      "workDir": "/home/container/instances/8585417813AAHl"
     }
   ],
   "sellers": []
