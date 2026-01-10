@@ -25,6 +25,19 @@
       "status": "running",
       "pid": 263,
       "workDir": "/home/container/instances/8352025247AAFu"
+    },
+    {
+      "botName": "faa",
+      "botToken": "8161585830:AAHbGxP_VgUEw4r8gUtPuKXkGu3hVmkfxtk",
+      "ownerId": 8498460047,
+      "config": {
+        "BOT_TOKEN": "8161585830:AAHbGxP_VgUEw4r8gUtPuKXkGu3hVmkfxtk",
+        "OWNER_ID": 8498460047
+      },
+      "expiryDate": "2026-04-20T12:06:42.510Z",
+      "status": "running",
+      "pid": 376,
+      "workDir": "/home/container/instances/8161585830AAHb"
     }
   ],
   "sellers": []
