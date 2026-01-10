@@ -155,6 +155,19 @@
       "status": "stopped",
       "pid": 1393,
       "workDir": "/home/container/instances/8451721772AAHi"
+    },
+    {
+      "botName": "Thanzx",
+      "botToken": "8528634553:AAG1o5ETuhK3NN5a5tDKGXcPdBsYcRzhoRA",
+      "ownerId": 8545350752,
+      "config": {
+        "BOT_TOKEN": "8528634553:AAG1o5ETuhK3NN5a5tDKGXcPdBsYcRzhoRA",
+        "OWNER_ID": 8545350752
+      },
+      "expiryDate": "2026-04-20T12:50:14.463Z",
+      "status": "running",
+      "pid": 1653,
+      "workDir": "/home/container/instances/8528634553AAG1"
     }
   ],
   "sellers": []
