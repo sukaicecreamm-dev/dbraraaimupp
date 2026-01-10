@@ -111,6 +111,14 @@
       "internalId": 38,
       "ownerId": 6930359150,
       "expiryDate": "2026-02-09T02:33:27.193Z"
+    },
+    {
+      "botName": "apcb",
+      "botToken": "8044623371:AAExGV3Jl2IKbd-aCWsaclbyrbcbO9jQRks",
+      "serverId": "a0bfd899",
+      "internalId": 39,
+      "ownerId": 8307890083,
+      "expiryDate": "2026-02-09T02:43:09.553Z"
     }
   ],
   "sellers": []
