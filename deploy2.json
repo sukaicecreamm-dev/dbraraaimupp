@@ -220,6 +220,19 @@
       "status": "running",
       "pid": 330,
       "workDir": "/home/container/instances/8574253587AAEX"
+    },
+    {
+      "botName": "@FHD120HZ_bot",
+      "botToken": "8219068237:AAFyl6Ud6XDgC-p3F8TR739jbVnRJQ9Ufvs",
+      "ownerId": 8049925650,
+      "config": {
+        "BOT_TOKEN": "8219068237:AAFyl6Ud6XDgC-p3F8TR739jbVnRJQ9Ufvs",
+        "OWNER_ID": 8049925650
+      },
+      "expiryDate": "2026-04-20T13:22:58.478Z",
+      "status": "running",
+      "pid": 342,
+      "workDir": "/home/container/instances/8219068237AAFy"
     }
   ],
   "sellers": []
