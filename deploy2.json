@@ -55,6 +55,14 @@
       "internalId": 31,
       "ownerId": 7643222491,
       "expiryDate": "2026-02-09T01:20:16.737Z"
+    },
+    {
+      "botName": "Zyn",
+      "botToken": "8574253587:AAEXBYmPekefWpEHmYJOjuR3eJt8YRKxWuQ",
+      "serverId": "9a943aa3",
+      "internalId": 32,
+      "ownerId": 8492295105,
+      "expiryDate": "2026-02-09T01:23:05.527Z"
     }
   ],
   "sellers": []
