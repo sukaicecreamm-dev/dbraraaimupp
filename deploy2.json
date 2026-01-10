@@ -77,6 +77,19 @@
       "status": "running",
       "pid": 715,
       "workDir": "/home/container/instances/8314278292AAGi"
+    },
+    {
+      "botName": "lawrzzy_bot",
+      "botToken": "8124162600:AAHTfLQ-Xjjk1tcf-JKDUZlsax5YuZaLmFQ",
+      "ownerId": 8285808916,
+      "config": {
+        "BOT_TOKEN": "8124162600:AAHTfLQ-Xjjk1tcf-JKDUZlsax5YuZaLmFQ",
+        "OWNER_ID": 8285808916
+      },
+      "expiryDate": "2026-04-20T12:12:10.088Z",
+      "status": "running",
+      "pid": 828,
+      "workDir": "/home/container/instances/8124162600AAHT"
     }
   ],
   "sellers": []
