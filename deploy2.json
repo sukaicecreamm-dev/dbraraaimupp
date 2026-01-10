@@ -129,6 +129,19 @@
       "status": "running",
       "pid": 1167,
       "workDir": "/home/container/instances/8325217634AAEy"
+    },
+    {
+      "botName": "ambabot",
+      "botToken": "8221893208:AAHACZM9xBEqRrO1aJ2W-yhUaGXm060OWRQ",
+      "ownerId": 7789405680,
+      "config": {
+        "BOT_TOKEN": "8221893208:AAHACZM9xBEqRrO1aJ2W-yhUaGXm060OWRQ",
+        "OWNER_ID": 7789405680
+      },
+      "expiryDate": "2026-04-20T12:36:33.191Z",
+      "status": "running",
+      "pid": 1280,
+      "workDir": "/home/container/instances/8221893208AAHA"
     }
   ],
   "sellers": []
