@@ -1,4 +1,13 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botName": "tessaj",
+      "botToken": "8592617322:AAG0neHz5i9DqfWIaBaqA0YqGGok3cZi0eI",
+      "serverId": "7c23cb5c",
+      "internalId": 24,
+      "ownerId": 7164564042,
+      "expiryDate": "2026-02-09T00:15:05.616Z"
+    }
+  ],
   "sellers": []
 }
