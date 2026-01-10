@@ -181,6 +181,19 @@
       "status": "running",
       "pid": 371,
       "workDir": "/home/container/instances/8385768406AAHA"
+    },
+    {
+      "botName": "khai",
+      "botToken": "8273955551:AAEWUXiJE3ilFRxV9hBTjPKUhB6GHsOLr4M",
+      "ownerId": 8417988097,
+      "config": {
+        "BOT_TOKEN": "8273955551:AAEWUXiJE3ilFRxV9hBTjPKUhB6GHsOLr4M",
+        "OWNER_ID": 8417988097
+      },
+      "expiryDate": "2026-04-20T13:10:33.050Z",
+      "status": "running",
+      "pid": 407,
+      "workDir": "/home/container/instances/8273955551AAEW"
     }
   ],
   "sellers": []
