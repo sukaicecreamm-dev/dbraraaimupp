@@ -90,6 +90,19 @@
       "status": "running",
       "pid": 828,
       "workDir": "/home/container/instances/8124162600AAHT"
+    },
+    {
+      "botName": "ebyta",
+      "botToken": "8494204237:AAH93smNWp7F3dJOiBEMTf8ezpLYEzJjJpg",
+      "ownerId": 8155061926,
+      "config": {
+        "BOT_TOKEN": "8494204237:AAH93smNWp7F3dJOiBEMTf8ezpLYEzJjJpg",
+        "OWNER_ID": 8155061926
+      },
+      "expiryDate": "2026-04-20T12:14:47.318Z",
+      "status": "running",
+      "pid": 941,
+      "workDir": "/home/container/instances/8494204237AAH9"
     }
   ],
   "sellers": []
