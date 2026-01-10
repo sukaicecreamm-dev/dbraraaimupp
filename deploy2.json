@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botName": "@hartizzxbot",
+      "botToken": "8498260898:AAGAmg4p62ZpzViSHhfap1IzTI7iww9OVDM",
+      "ownerId": 8568378644,
+      "config": {
+        "BOT_TOKEN": "8498260898:AAGAmg4p62ZpzViSHhfap1IzTI7iww9OVDM",
+        "OWNER_ID": 8568378644
+      },
+      "expiryDate": "2026-04-20T11:52:53.664Z",
+      "status": "running",
+      "pid": 150,
+      "workDir": "/home/container/instances/8498260898AAGA"
+    }
+  ],
   "sellers": []
 }
