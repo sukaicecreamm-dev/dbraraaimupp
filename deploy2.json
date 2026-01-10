@@ -168,6 +168,19 @@
       "status": "running",
       "pid": 1653,
       "workDir": "/home/container/instances/8528634553AAG1"
+    },
+    {
+      "botName": "sanzmek",
+      "botToken": "8385768406:AAHAzI-MkEOrVzVGwQl3CMrRrQwIMusb49g",
+      "ownerId": 8475343650,
+      "config": {
+        "BOT_TOKEN": "8385768406:AAHAzI-MkEOrVzVGwQl3CMrRrQwIMusb49g",
+        "OWNER_ID": 8475343650
+      },
+      "expiryDate": "2026-04-20T13:10:11.846Z",
+      "status": "running",
+      "pid": 371,
+      "workDir": "/home/container/instances/8385768406AAHA"
     }
   ],
   "sellers": []
