@@ -31,6 +31,14 @@
       "internalId": 27,
       "ownerId": 8167548128,
       "expiryDate": "2026-02-09T00:36:26.633Z"
+    },
+    {
+      "botName": "http://t.me/arulbabubot",
+      "botToken": "8505011994:AAEFGNrfCAyZHqm7cH_EvmheGVxztWTSAko",
+      "serverId": "f487c0b0",
+      "internalId": 28,
+      "ownerId": 8148406891,
+      "expiryDate": "2026-02-09T00:51:27.880Z"
     }
   ],
   "sellers": []
