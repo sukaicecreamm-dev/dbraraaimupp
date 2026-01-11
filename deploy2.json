@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botName": "scrry_bot",
+      "botToken": "8559075503:AAEyllWd6_zFkMOqGwJgCFQeDtVr5358bkE",
+      "ownerId": 7158867284,
+      "config": {
+        "BOT_TOKEN": "8559075503:AAEyllWd6_zFkMOqGwJgCFQeDtVr5358bkE",
+        "OWNER_ID": 7158867284
+      },
+      "expiryDate": "2026-04-21T08:06:29.766Z",
+      "status": "running",
+      "pid": 538,
+      "workDir": "/home/container/instances/8559075503AAEy"
+    }
+  ],
   "sellers": []
 }
