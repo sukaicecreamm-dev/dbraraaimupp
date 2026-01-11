@@ -38,6 +38,19 @@
       "status": "stopped",
       "pid": 144,
       "workDir": "/home/container/instances/8393739674AAHS"
+    },
+    {
+      "botName": "Jamal",
+      "botToken": "8489225401:AAH0xCQSQwLsxUoGtiOXH7oep8Q-saD11gs",
+      "ownerId": 8167548128,
+      "config": {
+        "BOT_TOKEN": "8489225401:AAH0xCQSQwLsxUoGtiOXH7oep8Q-saD11gs",
+        "OWNER_ID": 8167548128
+      },
+      "expiryDate": "2026-04-21T04:49:06.059Z",
+      "status": "running",
+      "pid": 341,
+      "workDir": "/home/container/instances/8489225401AAH0"
     }
   ],
   "sellers": []
