@@ -77,6 +77,19 @@
       "status": "running",
       "pid": 484,
       "workDir": "/home/container/instances/8551162639AAFv"
+    },
+    {
+      "botName": "sanzX",
+      "botToken": "8227752609:AAF5hhZ1kOTuL3JWQAWnS0jPqW5EMt2lrx8",
+      "ownerId": 6706541778,
+      "config": {
+        "BOT_TOKEN": "8227752609:AAF5hhZ1kOTuL3JWQAWnS0jPqW5EMt2lrx8",
+        "OWNER_ID": 6706541778
+      },
+      "expiryDate": "2026-04-21T05:52:41.790Z",
+      "status": "running",
+      "pid": 521,
+      "workDir": "/home/container/instances/8227752609AAF5"
     }
   ],
   "sellers": []
