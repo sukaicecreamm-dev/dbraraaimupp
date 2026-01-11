@@ -87,7 +87,7 @@
         "OWNER_ID": 8286063311
       },
       "expiryDate": "2026-04-21T08:45:37.639Z",
-      "status": "running",
+      "status": "stopped",
       "pid": 3544,
       "workDir": "/home/container/instances/8273785790AAF6"
     },
