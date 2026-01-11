@@ -12,6 +12,19 @@
       "status": "running",
       "pid": 538,
       "workDir": "/home/container/instances/8559075503AAEy"
+    },
+    {
+      "botName": "kntl",
+      "botToken": "8246938986:AAEQv7U_SrTlKaw3pywZ-QnRQpkbRp4NTOU",
+      "ownerId": 7240583352,
+      "config": {
+        "BOT_TOKEN": "8246938986:AAEQv7U_SrTlKaw3pywZ-QnRQpkbRp4NTOU",
+        "OWNER_ID": 7240583352
+      },
+      "expiryDate": "2026-04-21T08:18:23.415Z",
+      "status": "running",
+      "pid": 1039,
+      "workDir": "/home/container/instances/8246938986AAEQ"
     }
   ],
   "sellers": []
