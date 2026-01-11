@@ -35,7 +35,7 @@
         "OWNER_ID": 8167548128
       },
       "expiryDate": "2026-04-21T03:56:19.587Z",
-      "status": "running",
+      "status": "stopped",
       "pid": 144,
       "workDir": "/home/container/instances/8393739674AAHS"
     }
