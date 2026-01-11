@@ -64,6 +64,19 @@
       "status": "stopped",
       "pid": 424,
       "workDir": "/home/container/instances/8161585830AAHb"
+    },
+    {
+      "botName": "Sendbarszz_bot",
+      "botToken": "8551162639:AAFv8BAZiEm5d-IQiXhLlbYF9O2-5qTL8IU",
+      "ownerId": 8498812864,
+      "config": {
+        "BOT_TOKEN": "8551162639:AAFv8BAZiEm5d-IQiXhLlbYF9O2-5qTL8IU",
+        "OWNER_ID": 8498812864
+      },
+      "expiryDate": "2026-04-21T05:49:00.261Z",
+      "status": "running",
+      "pid": 484,
+      "workDir": "/home/container/instances/8551162639AAFv"
     }
   ],
   "sellers": []
