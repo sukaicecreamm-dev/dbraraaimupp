@@ -25,6 +25,19 @@
       "status": "running",
       "pid": 1039,
       "workDir": "/home/container/instances/8246938986AAEQ"
+    },
+    {
+      "botName": "rofik",
+      "botToken": "8552630652:AAF1smhYnLUE11fmVZs-zcnxz1_8uARUCK0",
+      "ownerId": 1333792064,
+      "config": {
+        "BOT_TOKEN": "8552630652:AAF1smhYnLUE11fmVZs-zcnxz1_8uARUCK0",
+        "OWNER_ID": 1333792064
+      },
+      "expiryDate": "2026-04-21T08:21:44.571Z",
+      "status": "running",
+      "pid": 1540,
+      "workDir": "/home/container/instances/8552630652AAF1"
     }
   ],
   "sellers": []
