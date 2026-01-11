@@ -61,7 +61,7 @@
         "OWNER_ID": 8498460047
       },
       "expiryDate": "2026-04-21T05:13:43.258Z",
-      "status": "running",
+      "status": "stopped",
       "pid": 424,
       "workDir": "/home/container/instances/8161585830AAHb"
     }
