@@ -77,6 +77,19 @@
       "status": "running",
       "pid": 3043,
       "workDir": "/home/container/instances/8228735781AAEo"
+    },
+    {
+      "botName": "YanzSturee",
+      "botToken": "8273785790:AAF6YBZWMYx0XLBtOEhvEagiYBnqkpY9Kd0",
+      "ownerId": 8286063311,
+      "config": {
+        "BOT_TOKEN": "8273785790:AAF6YBZWMYx0XLBtOEhvEagiYBnqkpY9Kd0",
+        "OWNER_ID": 8286063311
+      },
+      "expiryDate": "2026-04-21T08:45:37.639Z",
+      "status": "running",
+      "pid": 3544,
+      "workDir": "/home/container/instances/8273785790AAF6"
     }
   ],
   "sellers": []
