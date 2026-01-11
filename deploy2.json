@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 8089,
       "workDir": "/home/container/instances/8592617322AAG0"
+    },
+    {
+      "botName": "@Rishscarry_bot",
+      "botToken": "7232701281:AAEmIpYV4lcloYejnpGI-xg1xI8Qd5sykrQ",
+      "ownerId": 7614069162,
+      "config": {
+        "BOT_TOKEN": "7232701281:AAEmIpYV4lcloYejnpGI-xg1xI8Qd5sykrQ",
+        "OWNER_ID": 7614069162
+      },
+      "expiryDate": "2026-04-21T11:49:54.190Z",
+      "status": "running",
+      "pid": 8590,
+      "workDir": "/home/container/instances/7232701281AAEm"
     }
   ],
   "sellers": []
