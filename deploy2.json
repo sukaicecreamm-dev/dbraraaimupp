@@ -155,6 +155,19 @@
       "status": "running",
       "pid": 6085,
       "workDir": "/home/container/instances/8574253587AAEX"
+    },
+    {
+      "botName": "Babu_Zidan",
+      "botToken": "8436272241:AAGagRtTlQ6XtgIIc2azW_QpfZifxkmzzbw",
+      "ownerId": 8407155132,
+      "config": {
+        "BOT_TOKEN": "8436272241:AAGagRtTlQ6XtgIIc2azW_QpfZifxkmzzbw",
+        "OWNER_ID": 8407155132
+      },
+      "expiryDate": "2026-04-21T10:27:01.753Z",
+      "status": "running",
+      "pid": 6586,
+      "workDir": "/home/container/instances/8436272241AAGa"
     }
   ],
   "sellers": []
