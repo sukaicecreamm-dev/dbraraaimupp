@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botName": "rarajelek",
+      "botToken": "8592617322:AAG0neHz5i9DqfWIaBaqA0YqGGok3cZi0eI",
+      "ownerId": 7164564042,
+      "config": {
+        "BOT_TOKEN": "8592617322:AAG0neHz5i9DqfWIaBaqA0YqGGok3cZi0eI",
+        "OWNER_ID": 7164564042
+      },
+      "expiryDate": "2026-04-21T02:22:06.778Z",
+      "status": "running",
+      "pid": 416,
+      "workDir": "/home/container/instances/8592617322AAG0"
+    }
+  ],
   "sellers": []
 }
