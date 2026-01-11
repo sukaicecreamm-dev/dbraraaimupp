@@ -25,6 +25,19 @@
       "status": "running",
       "pid": 120,
       "workDir": "/home/container/instances/8393739674AAHS"
+    },
+    {
+      "botName": "acumalaka",
+      "botToken": "8352025247:AAFuW_4Qu8LcEtjLnYSqQJbGqs48tTvAqCA",
+      "ownerId": 8117961804,
+      "config": {
+        "BOT_TOKEN": "8352025247:AAFuW_4Qu8LcEtjLnYSqQJbGqs48tTvAqCA",
+        "OWNER_ID": 8117961804
+      },
+      "expiryDate": "2026-04-21T03:44:38.395Z",
+      "status": "running",
+      "pid": 132,
+      "workDir": "/home/container/instances/8352025247AAFu"
     }
   ],
   "sellers": []
