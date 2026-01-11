@@ -90,6 +90,19 @@
       "status": "running",
       "pid": 3544,
       "workDir": "/home/container/instances/8273785790AAF6"
+    },
+    {
+      "botName": "ropik",
+      "botToken": "8438225245:AAEaYQLP8Op6Uq9NhEwuwuMMZ4IBngrzCOE",
+      "ownerId": 1333792064,
+      "config": {
+        "BOT_TOKEN": "8438225245:AAEaYQLP8Op6Uq9NhEwuwuMMZ4IBngrzCOE",
+        "OWNER_ID": 1333792064
+      },
+      "expiryDate": "2026-04-21T08:49:10.654Z",
+      "status": "running",
+      "pid": 4045,
+      "workDir": "/home/container/instances/8438225245AAEa"
     }
   ],
   "sellers": []
