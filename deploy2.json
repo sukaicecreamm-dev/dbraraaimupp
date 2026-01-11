@@ -142,6 +142,19 @@
       "status": "running",
       "pid": 5584,
       "workDir": "/home/container/instances/8585417813AAHl"
+    },
+    {
+      "botName": "Zynbot",
+      "botToken": "8574253587:AAEXBYmPekefWpEHmYJOjuR3eJt8YRKxWuQ",
+      "ownerId": 8492295105,
+      "config": {
+        "BOT_TOKEN": "8574253587:AAEXBYmPekefWpEHmYJOjuR3eJt8YRKxWuQ",
+        "OWNER_ID": 8492295105
+      },
+      "expiryDate": "2026-04-21T09:52:50.204Z",
+      "status": "running",
+      "pid": 6085,
+      "workDir": "/home/container/instances/8574253587AAEX"
     }
   ],
   "sellers": []
