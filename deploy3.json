@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botName": "pirs",
+      "botToken": "8510812507:AAEenhI4hTj_D4vO3tQtgjVrOBw2uTg3Rqk",
+      "ownerId": 7362821786,
+      "config": {
+        "BOT_TOKEN": "8510812507:AAEenhI4hTj_D4vO3tQtgjVrOBw2uTg3Rqk",
+        "OWNER_ID": 7362821786
+      },
+      "expiryDate": "2026-04-22T05:12:45.950Z",
+      "status": "running",
+      "pid": 61,
+      "workDir": "/home/container/instances/8510812507AAEe"
+    }
+  ],
   "sellers": []
 }
