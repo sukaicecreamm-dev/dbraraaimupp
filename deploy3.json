@@ -259,6 +259,19 @@
       "status": "running",
       "pid": 10613,
       "workDir": "/home/container/instances/8574253587AAEX"
+    },
+    {
+      "botName": "pruz",
+      "botToken": "8401112587:AAHKIztgkoO324tvehOOavkykrYzPsQZdHs",
+      "ownerId": 8051688547,
+      "config": {
+        "BOT_TOKEN": "8401112587:AAHKIztgkoO324tvehOOavkykrYzPsQZdHs",
+        "OWNER_ID": 8051688547
+      },
+      "expiryDate": "2026-04-22T12:25:27.820Z",
+      "status": "running",
+      "pid": 10726,
+      "workDir": "/home/container/instances/8401112587AAHK"
     }
   ],
   "sellers": []
