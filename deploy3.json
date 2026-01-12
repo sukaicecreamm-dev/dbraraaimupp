@@ -220,6 +220,19 @@
       "status": "running",
       "pid": 8627,
       "workDir": "/home/container/instances/8228735781AAEo"
+    },
+    {
+      "botName": "dans",
+      "botToken": "7707030740:AAFS0jbDHa787UgHFWOAICUY0fBn8o7D3y8",
+      "ownerId": 7621917512,
+      "config": {
+        "BOT_TOKEN": "7707030740:AAFS0jbDHa787UgHFWOAICUY0fBn8o7D3y8",
+        "OWNER_ID": 7621917512
+      },
+      "expiryDate": "2026-04-22T11:46:46.924Z",
+      "status": "running",
+      "pid": 9140,
+      "workDir": "/home/container/instances/7707030740AAFS"
     }
   ],
   "sellers": []
