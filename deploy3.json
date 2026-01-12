@@ -152,7 +152,7 @@
         "OWNER_ID": 8368781032
       },
       "expiryDate": "2026-04-22T09:32:00.933Z",
-      "status": "running",
+      "status": "stopped",
       "pid": 5471,
       "workDir": "/home/container/instances/8410356894AAGw"
     },
