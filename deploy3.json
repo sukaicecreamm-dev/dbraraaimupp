@@ -194,6 +194,19 @@
       "status": "running",
       "pid": 7499,
       "workDir": "/home/container/instances/8410356894AAHo"
+    },
+    {
+      "botName": "Amel",
+      "botToken": "8366989949:AAHEAKNo4CZvoItAHcDXaHVa7ZmI8rDkd30",
+      "ownerId": 8401775722,
+      "config": {
+        "BOT_TOKEN": "8366989949:AAHEAKNo4CZvoItAHcDXaHVa7ZmI8rDkd30",
+        "OWNER_ID": 8401775722
+      },
+      "expiryDate": "2026-04-22T09:56:59.229Z",
+      "status": "running",
+      "pid": 7588,
+      "workDir": "/home/container/instances/8366989949AAHE"
     }
   ],
   "sellers": []
