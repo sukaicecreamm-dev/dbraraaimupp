@@ -233,6 +233,19 @@
       "status": "running",
       "pid": 9140,
       "workDir": "/home/container/instances/7707030740AAFS"
+    },
+    {
+      "botName": "emery",
+      "botToken": "8216048248:AAGox4WxjfSwEqUiARyod3vgjK_dxtKZkz4",
+      "ownerId": 7921457162,
+      "config": {
+        "BOT_TOKEN": "8216048248:AAGox4WxjfSwEqUiARyod3vgjK_dxtKZkz4",
+        "OWNER_ID": 7921457162
+      },
+      "expiryDate": "2026-04-22T11:52:52.360Z",
+      "status": "running",
+      "pid": 9175,
+      "workDir": "/home/container/instances/8216048248AAGo"
     }
   ],
   "sellers": []
