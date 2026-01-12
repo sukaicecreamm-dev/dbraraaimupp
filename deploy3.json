@@ -155,6 +155,19 @@
       "status": "running",
       "pid": 5471,
       "workDir": "/home/container/instances/8410356894AAGw"
+    },
+    {
+      "botName": "@AyeckXBot",
+      "botToken": "7827141755:AAEMhRYmO2OR90iWRIz94C7V6SqPNm3HfnI",
+      "ownerId": 8254832892,
+      "config": {
+        "BOT_TOKEN": "7827141755:AAEMhRYmO2OR90iWRIz94C7V6SqPNm3HfnI",
+        "OWNER_ID": 8254832892
+      },
+      "expiryDate": "2026-04-22T09:32:30.308Z",
+      "status": "running",
+      "pid": 5814,
+      "workDir": "/home/container/instances/7827141755AAEM"
     }
   ],
   "sellers": []
