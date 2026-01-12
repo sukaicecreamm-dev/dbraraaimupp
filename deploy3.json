@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 8513,
       "workDir": "/home/container/instances/8410356894AAHo"
+    },
+    {
+      "botName": "wilzz",
+      "botToken": "8228735781:AAEoAO1yi4mZYuyIsJ1EDdNC0EG1xfa2Y_U",
+      "ownerId": 6674071478,
+      "config": {
+        "BOT_TOKEN": "8228735781:AAEoAO1yi4mZYuyIsJ1EDdNC0EG1xfa2Y_U",
+        "OWNER_ID": 6674071478
+      },
+      "expiryDate": "2026-04-22T11:33:40.070Z",
+      "status": "running",
+      "pid": 8627,
+      "workDir": "/home/container/instances/8228735781AAEo"
     }
   ],
   "sellers": []
