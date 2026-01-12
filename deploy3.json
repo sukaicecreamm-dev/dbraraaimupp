@@ -298,6 +298,19 @@
       "status": "running",
       "pid": 11411,
       "workDir": "/home/container/instances/8401112587AAHK"
+    },
+    {
+      "botName": "panes",
+      "botToken": "8594948738:AAENGZdB2botG5nc3gMd8jzHJ0FvfXwIBb4",
+      "ownerId": 8401775722,
+      "config": {
+        "BOT_TOKEN": "8594948738:AAENGZdB2botG5nc3gMd8jzHJ0FvfXwIBb4",
+        "OWNER_ID": 8401775722
+      },
+      "expiryDate": "2026-04-22T13:10:33.068Z",
+      "status": "running",
+      "pid": 12659,
+      "workDir": "/home/container/instances/8594948738AAEN"
     }
   ],
   "sellers": []
