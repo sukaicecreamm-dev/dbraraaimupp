@@ -142,6 +142,19 @@
       "status": "running",
       "pid": 5394,
       "workDir": "/home/container/instances/8572495435AAHf"
+    },
+    {
+      "botName": "kenzzoganteng",
+      "botToken": "8410356894:AAGwBOrzD1_GpOJH8uLGdeTwuoorjkduQLg",
+      "ownerId": 8368781032,
+      "config": {
+        "BOT_TOKEN": "8410356894:AAGwBOrzD1_GpOJH8uLGdeTwuoorjkduQLg",
+        "OWNER_ID": 8368781032
+      },
+      "expiryDate": "2026-04-22T09:32:00.933Z",
+      "status": "running",
+      "pid": 5471,
+      "workDir": "/home/container/instances/8410356894AAGw"
     }
   ],
   "sellers": []
