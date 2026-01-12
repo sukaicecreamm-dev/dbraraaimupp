@@ -129,6 +129,19 @@
       "status": "running",
       "pid": 4295,
       "workDir": "/home/container/instances/8498260898AAGA"
+    },
+    {
+      "botName": "ZyxnexXtree",
+      "botToken": "8572495435:AAHfLT-8b3sop1q5FpFbq47CwiHBfHaYiSc",
+      "ownerId": 8304637008,
+      "config": {
+        "BOT_TOKEN": "8572495435:AAHfLT-8b3sop1q5FpFbq47CwiHBfHaYiSc",
+        "OWNER_ID": 8304637008
+      },
+      "expiryDate": "2026-04-22T09:28:57.501Z",
+      "status": "running",
+      "pid": 5394,
+      "workDir": "/home/container/instances/8572495435AAHf"
     }
   ],
   "sellers": []
