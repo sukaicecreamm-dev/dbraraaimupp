@@ -90,6 +90,19 @@
       "status": "running",
       "pid": 2650,
       "workDir": "/home/container/instances/8420215951AAFt"
+    },
+    {
+      "botName": "@Rishscarry_bot",
+      "botToken": "7232701281:AAEmIpYV4lcloYejnpGI-xg1xI8Qd5sykrQ",
+      "ownerId": 7822313175,
+      "config": {
+        "BOT_TOKEN": "7232701281:AAEmIpYV4lcloYejnpGI-xg1xI8Qd5sykrQ",
+        "OWNER_ID": 7822313175
+      },
+      "expiryDate": "2026-04-22T08:35:24.760Z",
+      "status": "running",
+      "pid": 3163,
+      "workDir": "/home/container/instances/7232701281AAEm"
     }
   ],
   "sellers": []
