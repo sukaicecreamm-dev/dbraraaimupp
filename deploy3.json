@@ -12,6 +12,19 @@
       "status": "running",
       "pid": 562,
       "workDir": "/home/container/instances/8510812507AAEe"
+    },
+    {
+      "botName": "lexzy",
+      "botToken": "8321967232:AAFMPZ5l6y6Gq9Pa5p3qHwQ4o6D3BiN6rS0",
+      "ownerId": 8281312271,
+      "config": {
+        "BOT_TOKEN": "8321967232:AAFMPZ5l6y6Gq9Pa5p3qHwQ4o6D3BiN6rS0",
+        "OWNER_ID": 8281312271
+      },
+      "expiryDate": "2026-04-22T06:09:29.532Z",
+      "status": "running",
+      "pid": 85,
+      "workDir": "/home/container/instances/8321967232AAFM"
     }
   ],
   "sellers": []
