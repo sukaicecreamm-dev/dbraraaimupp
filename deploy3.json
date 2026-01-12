@@ -38,6 +38,19 @@
       "status": "running",
       "pid": 598,
       "workDir": "/home/container/instances/8489225401AAH0"
+    },
+    {
+      "botName": "hamxyzz",
+      "botToken": "8427428739:AAHxFSuG9OjjU_h3KvP5jnKMKAs96s7GzRs",
+      "ownerId": 7508199319,
+      "config": {
+        "BOT_TOKEN": "8427428739:AAHxFSuG9OjjU_h3KvP5jnKMKAs96s7GzRs",
+        "OWNER_ID": 7508199319
+      },
+      "expiryDate": "2026-04-22T06:55:14.187Z",
+      "status": "running",
+      "pid": 989,
+      "workDir": "/home/container/instances/8427428739AAHx"
     }
   ],
   "sellers": []
