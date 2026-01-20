@@ -129,6 +129,19 @@
       "status": "running",
       "pid": 2720,
       "workDir": "/home/container/instances/8219457821AAGL"
+    },
+    {
+      "botName": "sambalado",
+      "botToken": "8301194640:AAHeAfUo4XLBa0lYZ2nKJz8i9an_R1Pee98",
+      "ownerId": 8117961804,
+      "config": {
+        "BOT_TOKEN": "8301194640:AAHeAfUo4XLBa0lYZ2nKJz8i9an_R1Pee98",
+        "OWNER_ID": 8117961804
+      },
+      "expiryDate": "2026-04-30T10:00:03.270Z",
+      "status": "running",
+      "pid": 2810,
+      "workDir": "/home/container/instances/8301194640AAHe"
     }
   ],
   "sellers": []
