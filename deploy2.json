@@ -155,6 +155,19 @@
       "status": "running",
       "pid": 2918,
       "workDir": "/home/container/instances/7969132597AAFA"
+    },
+    {
+      "botName": "scarryrico",
+      "botToken": "8371826677:AAHH4pSJdLAkJMXrWvPiziKW0UYoZvoLMmI",
+      "ownerId": 8494672829,
+      "config": {
+        "BOT_TOKEN": "8371826677:AAHH4pSJdLAkJMXrWvPiziKW0UYoZvoLMmI",
+        "OWNER_ID": 8494672829
+      },
+      "expiryDate": "2026-04-30T10:27:33.262Z",
+      "status": "running",
+      "pid": 3028,
+      "workDir": "/home/container/instances/8371826677AAHH"
     }
   ],
   "sellers": []
