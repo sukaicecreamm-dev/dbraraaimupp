@@ -116,6 +116,19 @@
       "status": "running",
       "pid": 2617,
       "workDir": "/home/container/instances/8218298719AAHS"
+    },
+    {
+      "botName": "ATTACKxSCARRYxDEATH_BOT",
+      "botToken": "8219457821:AAGL8m6pudLvZDq1ZB6H2OFZ7CkKg_TwoNw",
+      "ownerId": 8141847107,
+      "config": {
+        "BOT_TOKEN": "8219457821:AAGL8m6pudLvZDq1ZB6H2OFZ7CkKg_TwoNw",
+        "OWNER_ID": 8141847107
+      },
+      "expiryDate": "2026-04-30T09:38:56.242Z",
+      "status": "running",
+      "pid": 2720,
+      "workDir": "/home/container/instances/8219457821AAGL"
     }
   ],
   "sellers": []
