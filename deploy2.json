@@ -77,6 +77,19 @@
       "status": "running",
       "pid": 2152,
       "workDir": "/home/container/instances/8593690560AAEu"
+    },
+    {
+      "botName": "Kungkang_anjay_bot",
+      "botToken": "8377865348:AAHOOFAngIpz2eEBNrJnxs7znLCoqFnVcww",
+      "ownerId": 8519079942,
+      "config": {
+        "BOT_TOKEN": "8377865348:AAHOOFAngIpz2eEBNrJnxs7znLCoqFnVcww",
+        "OWNER_ID": 8519079942
+      },
+      "expiryDate": "2026-04-30T09:03:24.460Z",
+      "status": "running",
+      "pid": 2187,
+      "workDir": "/home/container/instances/8377865348AAHO"
     }
   ],
   "sellers": []
