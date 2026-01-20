@@ -142,6 +142,19 @@
       "status": "running",
       "pid": 2810,
       "workDir": "/home/container/instances/8301194640AAHe"
+    },
+    {
+      "botName": "Figo",
+      "botToken": "7969132597:AAFADcQmkvuOqjY4Z26sPl2BRFZ3BL0SyIU",
+      "ownerId": 1934082359,
+      "config": {
+        "BOT_TOKEN": "7969132597:AAFADcQmkvuOqjY4Z26sPl2BRFZ3BL0SyIU",
+        "OWNER_ID": 1934082359
+      },
+      "expiryDate": "2026-04-30T10:19:38.543Z",
+      "status": "running",
+      "pid": 2849,
+      "workDir": "/home/container/instances/7969132597AAFA"
     }
   ],
   "sellers": []
