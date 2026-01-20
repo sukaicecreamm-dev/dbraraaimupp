@@ -144,19 +144,6 @@
       "workDir": "/home/container/instances/8301194640AAHe"
     },
     {
-      "botName": "Figo",
-      "botToken": "7969132597:AAFADcQmkvuOqjY4Z26sPl2BRFZ3BL0SyIU",
-      "ownerId": 1934082359,
-      "config": {
-        "BOT_TOKEN": "7969132597:AAFADcQmkvuOqjY4Z26sPl2BRFZ3BL0SyIU",
-        "OWNER_ID": 1934082359
-      },
-      "expiryDate": "2026-04-30T10:25:44.339Z",
-      "status": "running",
-      "pid": 2918,
-      "workDir": "/home/container/instances/7969132597AAFA"
-    },
-    {
       "botName": "scarryrico",
       "botToken": "8371826677:AAHH4pSJdLAkJMXrWvPiziKW0UYoZvoLMmI",
       "ownerId": 8494672829,
@@ -168,6 +155,19 @@
       "status": "running",
       "pid": 3028,
       "workDir": "/home/container/instances/8371826677AAHH"
+    },
+    {
+      "botName": "fiko",
+      "botToken": "7969132597:AAFADcQmkvuOqjY4Z26sPl2BRFZ3BL0SyIU",
+      "ownerId": 1934082359,
+      "config": {
+        "BOT_TOKEN": "7969132597:AAFADcQmkvuOqjY4Z26sPl2BRFZ3BL0SyIU",
+        "OWNER_ID": 1934082359
+      },
+      "expiryDate": "2026-04-30T11:15:39.945Z",
+      "status": "running",
+      "pid": 3061,
+      "workDir": "/home/container/instances/7969132597AAFA"
     }
   ],
   "sellers": []
