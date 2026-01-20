@@ -38,6 +38,19 @@
       "status": "running",
       "pid": 1089,
       "workDir": "/home/container/instances/7536687302AAHc"
+    },
+    {
+      "botName": "drayxrine",
+      "botToken": "7627105580:AAE9rQqZOFiD67m8M6VDnOOwAfU8N94UsWY",
+      "ownerId": 6524089707,
+      "config": {
+        "BOT_TOKEN": "7627105580:AAE9rQqZOFiD67m8M6VDnOOwAfU8N94UsWY",
+        "OWNER_ID": 6524089707
+      },
+      "expiryDate": "2026-04-30T08:44:07.616Z",
+      "status": "running",
+      "pid": 1124,
+      "workDir": "/home/container/instances/7627105580AAE9"
     }
   ],
   "sellers": []
