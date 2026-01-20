@@ -12,6 +12,19 @@
       "status": "running",
       "pid": 61,
       "workDir": "/home/container/instances/8030763261AAE2"
+    },
+    {
+      "botName": "rofik",
+      "botToken": "8484762571:AAGZMtKO62yXLUB-tmhWCTgvoTAIzD0ogZc",
+      "ownerId": 1333792064,
+      "config": {
+        "BOT_TOKEN": "8484762571:AAGZMtKO62yXLUB-tmhWCTgvoTAIzD0ogZc",
+        "OWNER_ID": 1333792064
+      },
+      "expiryDate": "2026-04-30T08:30:57.735Z",
+      "status": "running",
+      "pid": 575,
+      "workDir": "/home/container/instances/8484762571AAGZ"
     }
   ],
   "sellers": []
