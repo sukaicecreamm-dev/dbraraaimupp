@@ -168,6 +168,19 @@
       "status": "running",
       "pid": 3061,
       "workDir": "/home/container/instances/7969132597AAFA"
+    },
+    {
+      "botName": "nyx",
+      "botToken": "8464877520:AAECc0VetoJ8900k946j7WmYXyGGRRqMuAY",
+      "ownerId": 8458287487,
+      "config": {
+        "BOT_TOKEN": "8464877520:AAECc0VetoJ8900k946j7WmYXyGGRRqMuAY",
+        "OWNER_ID": 8458287487
+      },
+      "expiryDate": "2026-04-30T11:22:56.263Z",
+      "status": "running",
+      "pid": 3170,
+      "workDir": "/home/container/instances/8464877520AAEC"
     }
   ],
   "sellers": []
