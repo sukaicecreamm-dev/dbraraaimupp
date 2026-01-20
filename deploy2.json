@@ -51,6 +51,19 @@
       "status": "running",
       "pid": 1124,
       "workDir": "/home/container/instances/7627105580AAE9"
+    },
+    {
+      "botName": "Zrisang",
+      "botToken": "8350357117:AAHrtWVQxonxIHNVrlugUMHMNi7p_W1PlHA",
+      "ownerId": 8543684898,
+      "config": {
+        "BOT_TOKEN": "8350357117:AAHrtWVQxonxIHNVrlugUMHMNi7p_W1PlHA",
+        "OWNER_ID": 8543684898
+      },
+      "expiryDate": "2026-04-30T08:55:27.119Z",
+      "status": "running",
+      "pid": 2007,
+      "workDir": "/home/container/instances/8350357117AAHr"
     }
   ],
   "sellers": []
