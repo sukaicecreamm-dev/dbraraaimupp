@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 416,
       "workDir": "/home/container/instances/8574253587AAEX"
+    },
+    {
+      "botName": "arka",
+      "botToken": "8223671259:AAHUIdarbyk7OBOEGsHWHNoMfWZK5nPnihY",
+      "ownerId": 1249131487,
+      "config": {
+        "BOT_TOKEN": "8223671259:AAHUIdarbyk7OBOEGsHWHNoMfWZK5nPnihY",
+        "OWNER_ID": 1249131487
+      },
+      "expiryDate": "2026-04-30T13:25:16.521Z",
+      "status": "running",
+      "pid": 838,
+      "workDir": "/home/container/instances/8223671259AAHU"
     }
   ],
   "sellers": []
