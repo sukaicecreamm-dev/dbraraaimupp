@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botName": "@padelprime_bot",
+      "botToken": "8030763261:AAE2F6_cjRD-NGHrCBXSitO0CwBV9fSOodo",
+      "ownerId": 8533539207,
+      "config": {
+        "BOT_TOKEN": "8030763261:AAE2F6_cjRD-NGHrCBXSitO0CwBV9fSOodo",
+        "OWNER_ID": 8533539207
+      },
+      "expiryDate": "2026-04-30T08:05:16.358Z",
+      "status": "running",
+      "pid": 61,
+      "workDir": "/home/container/instances/8030763261AAE2"
+    }
+  ],
   "sellers": []
 }
