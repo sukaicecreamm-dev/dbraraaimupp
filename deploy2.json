@@ -64,6 +64,19 @@
       "status": "running",
       "pid": 2007,
       "workDir": "/home/container/instances/8350357117AAHr"
+    },
+    {
+      "botName": "@BaniasBug_bot",
+      "botToken": "8593690560:AAEu5ewpF_s3Le4mrpMkZRtjEJLm9DwDeHE",
+      "ownerId": 7849269880,
+      "config": {
+        "BOT_TOKEN": "8593690560:AAEu5ewpF_s3Le4mrpMkZRtjEJLm9DwDeHE",
+        "OWNER_ID": 7849269880
+      },
+      "expiryDate": "2026-04-30T08:57:26.627Z",
+      "status": "running",
+      "pid": 2152,
+      "workDir": "/home/container/instances/8593690560AAEu"
     }
   ],
   "sellers": []
