@@ -90,6 +90,19 @@
       "status": "running",
       "pid": 2187,
       "workDir": "/home/container/instances/8377865348AAHO"
+    },
+    {
+      "botName": "vanzz,",
+      "botToken": "7694086246:AAGwU8qs7ELMa6-hvMaHhFJ70NNe3-n9xkA",
+      "ownerId": 7791980257,
+      "config": {
+        "BOT_TOKEN": "7694086246:AAGwU8qs7ELMa6-hvMaHhFJ70NNe3-n9xkA",
+        "OWNER_ID": 7791980257
+      },
+      "expiryDate": "2026-04-30T09:19:32.716Z",
+      "status": "running",
+      "pid": 2224,
+      "workDir": "/home/container/instances/7694086246AAGw"
     }
   ],
   "sellers": []
