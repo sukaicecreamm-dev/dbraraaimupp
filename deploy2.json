@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botName": "raraa",
+      "botToken": "8184517167:AAF2KcwORQQQQbJBgUJURsdqH3eGPVbeeZM",
+      "ownerId": 1886007660,
+      "config": {
+        "BOT_TOKEN": "8184517167:AAF2KcwORQQQQbJBgUJURsdqH3eGPVbeeZM",
+        "OWNER_ID": 1886007660
+      },
+      "expiryDate": "2026-04-30T07:46:51.750Z",
+      "status": "running",
+      "pid": 61,
+      "workDir": "/home/container/instances/8184517167AAF2"
+    }
+  ],
   "sellers": []
 }
